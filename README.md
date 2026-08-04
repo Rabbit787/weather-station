@@ -1,8 +1,3 @@
-This is the code of the weather station project using esp32 from rabbit787 domein website. 
-I added the date and time to the ssd1306 screen on July 7th of 2024. 
-
-Feel free to comment and share your ideas. Thank you. 
-
 # 🌤️ ESP32 Weather Station & Clock
 
 An ESP32-based desktop weather station with an SSD1306 OLED display. It fetches real-time weather data and 12-hour forecasts via the OpenWeatherMap API, synchronized with NTP precision time.
@@ -17,7 +12,7 @@ An ESP32-based desktop weather station with an SSD1306 OLED display. It fetches 
 - **📺 Compact Display:** Clean UI layout built specifically for 128x64 SSD1306 OLED screens.
 
 > 💡 **Tip:** Add a photo of your hardware setup right here!
-> `![Hardware Setup](weather_display.png)`
+> <img width="4000" height="3000" alt="IMG_20240707_141502" src="https://github.com/user-attachments/assets/910072d7-5720-4b11-9010-60f561a81d7f" />
 
 ---
 
@@ -76,3 +71,9 @@ If you find this project helpful, don't forget to give it a ⭐️ star!
 Created by Rabbit787
 <img width="4000" height="3000" alt="IMG_20240707_141502" src="https://github.com/user-attachments/assets/910072d7-5720-4b11-9010-60f561a81d7f" />
 <img width="4000" height="3000" alt="IMG_20240707_141511" src="https://github.com/user-attachments/assets/09c90eb0-b5aa-4763-8f3e-236c49417f53" />
+
+This is the code of the weather station project using esp32 from rabbit787 domein website. 
+I added the date and time to the ssd1306 screen on July 7th of 2024. 
+
+Feel free to comment and share your ideas. Thank you. 
+
