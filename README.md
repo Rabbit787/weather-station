@@ -55,6 +55,7 @@ Ensure you have installed the following libraries via the Arduino Library Manage
 2. Configure Wi-Fi & API Credentials
    Replace the placeholder values in the code with your network details and OpenWeatherMap API Key:
 
+ ```bash
 const char* ssid     = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
@@ -63,7 +64,7 @@ const String key     = "YOUR_OPENWEATHERMAP_API_KEY";
 
 3.Upload to ESP32
   Select your ESP32 board, select the correct COM port, and upload!
-
+  ```
 🤝 Contributing & Feedback
 Feel free to open an Issue or submit a Pull Request if you have ideas to improve this project!
 If you find this project helpful, don't forget to give it a ⭐️ star!
