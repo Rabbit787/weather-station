@@ -11,7 +11,7 @@ An ESP32-based desktop weather station with an SSD1306 OLED display. It fetches 
 - **🔮 12-Hour Forecast:** Fetches and displays future weather predictions using OpenWeatherMap 5-day / 3-hour forecast data.
 - **📺 Compact Display:** Clean UI layout built specifically for 128x64 SSD1306 OLED screens.
 
-> 💡 **Tip:** Add a photo of your hardware setup right here!
+> 
 > <img width="4000" height="3000" alt="IMG_20240707_141502" src="https://github.com/user-attachments/assets/910072d7-5720-4b11-9010-60f561a81d7f" />
 
 ---
