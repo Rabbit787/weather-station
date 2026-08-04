@@ -61,10 +61,10 @@ const char* password = "YOUR_WIFI_PASSWORD";
 
 // Change location query (q=chiba,jp) if needed
 const String key     = "YOUR_OPENWEATHERMAP_API_KEY";
-
+  ```
 3.Upload to ESP32
   Select your ESP32 board, select the correct COM port, and upload!
-  ```
+
 🤝 Contributing & Feedback
 Feel free to open an Issue or submit a Pull Request if you have ideas to improve this project!
 If you find this project helpful, don't forget to give it a ⭐️ star!
