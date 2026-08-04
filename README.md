@@ -49,20 +49,20 @@ Ensure you have installed the following libraries via the Arduino Library Manage
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/Rabbit787/weather-station.git](https://github.com/Rabbit787/weather-station.git)
-Open the sketch
-Open code_with_NTPdisplay.ino in your Arduino IDE.
+1. Open the sketch
+   Open code_with_NTPdisplay.ino in your Arduino IDE.
 
-Configure Wi-Fi & API Credentials
-Replace the placeholder values in the code with your network details and OpenWeatherMap API Key:
+2. Configure Wi-Fi & API Credentials
+   Replace the placeholder values in the code with your network details and OpenWeatherMap API Key:
 
-C++
 const char* ssid     = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 // Change location query (q=chiba,jp) if needed
 const String key     = "YOUR_OPENWEATHERMAP_API_KEY";
-Upload to ESP32
-Select your ESP32 board, select the correct COM port, and upload!
+
+3.Upload to ESP32
+  Select your ESP32 board, select the correct COM port, and upload!
 
 🤝 Contributing & Feedback
 Feel free to open an Issue or submit a Pull Request if you have ideas to improve this project!
